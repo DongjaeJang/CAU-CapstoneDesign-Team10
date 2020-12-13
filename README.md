@@ -13,4 +13,5 @@
 
   
 - [x] Class page
+
   ![ezgif-5-1b96d4acdbcf](https://user-images.githubusercontent.com/33143335/102001045-dbc86500-3d30-11eb-9271-a2b0866402a2.gif)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
