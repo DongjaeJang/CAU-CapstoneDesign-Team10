@@ -9,5 +9,6 @@
 - [x] Kakao login
 - [x] Class search
 
-  ![login-gif](https://user-images.githubusercontent.com/33143335/102000711-876fb600-3d2d-11eb-9ba2-bce61c1c3174.gif)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![search-gif](https://user-images.githubusercontent.com/33143335/102000811-78d5ce80-3d2e-11eb-98aa-911cff12b2ba.gif)
+  ![ezgif-5-b05c49163a1f](https://user-images.githubusercontent.com/33143335/102000905-8b9cd300-3d2f-11eb-899e-ef5708990dbb.gif)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![ezgif-5-8d10aee0fb8d](https://user-images.githubusercontent.com/33143335/102000955-e0404e00-3d2f-11eb-9478-87376d61c625.gif)
+
   
