@@ -15,5 +15,15 @@
   
   
 - [x] Class page
+- [x] Teacher page
+  ![ezgif-5-1b96d4acdbcf](https://user-images.githubusercontent.com/33143335/102001045-dbc86500-3d30-11eb-9271-a2b0866402a2.gif)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![teacher page-gif](https://user-images.githubusercontent.com/33143335/102035145-0da9fc00-3e03-11eb-95ff-a8a814b7dd20.gif)
 
-  ![ezgif-5-1b96d4acdbcf](https://user-images.githubusercontent.com/33143335/102001045-dbc86500-3d30-11eb-9271-a2b0866402a2.gif)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  
+  
+- [x] Student page
+- [x] Chat page
+  ![ezgif-5-student](https://user-images.githubusercontent.com/33143335/102035050-d1769b80-3e02-11eb-9144-532b7d08adae.gif)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![ezgif-5-chat](https://user-images.githubusercontent.com/33143335/102035174-1d294500-3e03-11eb-9ebe-1318370cf1d8.gif)
+  
+  
+- [x] Purchase page, Setting page, Review page, Notification page, etc. can be checked by installing apk.
