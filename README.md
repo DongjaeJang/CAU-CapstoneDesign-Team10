@@ -29,4 +29,4 @@
   ![ezgif-5-student](https://user-images.githubusercontent.com/33143335/102035050-d1769b80-3e02-11eb-9144-532b7d08adae.gif)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![ezgif-5-chat](https://user-images.githubusercontent.com/33143335/102035174-1d294500-3e03-11eb-9ebe-1318370cf1d8.gif)
   
   
--####  Purchase page, Setting page, Review page, Notification page, etc. can be checked by installing apk.
+- ####  Purchase page, Setting page, Review page, Notification page, etc. can be checked by installing apk.
